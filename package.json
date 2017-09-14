@@ -1,7 +1,7 @@
 {
   "name": "JavaScript_Projects-master",
   "version": "1.0.0",
-  "description": "",
+  "description": "Building an Interactive Menu in Vanilla JavaScript",
   "main": "index.js",
    "scripts": {
     "build:js": "browserify src/js/index.js -d -t babelify -o build/bundle.js",
@@ -16,8 +16,7 @@
         "type": "git",
         "url": ""
    },
-  "keywords": [],
-  "author": "",
+  "author": "Olivia Boertje",
   "license": "ISC",
   "dependencies": {
     "bulma": "0.0.12"
